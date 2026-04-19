@@ -1,0 +1,11 @@
+Device-specific changelog:
+Build type: Unofficial
+Device: Samsung Galaxy S20 (x1s)
+Device maintainer: @miguelbarretoo
+
+=====================
+13-04-26
+=====================
+Device:
+- Sync with latest source changes 
+Try to fix NFC
